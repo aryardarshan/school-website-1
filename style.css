@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: cadetblue; 
+  color: green;
+}
+#img1{
+    height: 300px;
+    width: 300px;
+}
